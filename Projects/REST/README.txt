@@ -1,0 +1,2 @@
+These are two versions of a very similar back-end API that I had to create for an internship.  They are actually pretty close to the software engineering project I had to do for school, but these are only
+back-end (for a theoretical front end that could be initiallized later) and were completed solo.  The idea was mosly to practice RESTful APIs; one used JDBC and one used SpringBoot with Spring Data JPA.
